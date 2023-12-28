@@ -1,3 +1,4 @@
+/Users/jancongva/Desktop/Congi/GIT/coderama/StorageAPI/StorageAPI/obj/Debug/net6.0/StorageAPI.csproj.AssemblyReference.cache
 /Users/jancongva/Desktop/Congi/GIT/coderama/StorageAPI/StorageAPI/bin/Debug/net6.0/appsettings.Development.json
 /Users/jancongva/Desktop/Congi/GIT/coderama/StorageAPI/StorageAPI/bin/Debug/net6.0/appsettings.json
 /Users/jancongva/Desktop/Congi/GIT/coderama/StorageAPI/StorageAPI/bin/Debug/net6.0/StorageAPI
@@ -5,11 +6,14 @@
 /Users/jancongva/Desktop/Congi/GIT/coderama/StorageAPI/StorageAPI/bin/Debug/net6.0/StorageAPI.runtimeconfig.json
 /Users/jancongva/Desktop/Congi/GIT/coderama/StorageAPI/StorageAPI/bin/Debug/net6.0/StorageAPI.dll
 /Users/jancongva/Desktop/Congi/GIT/coderama/StorageAPI/StorageAPI/bin/Debug/net6.0/StorageAPI.pdb
+/Users/jancongva/Desktop/Congi/GIT/coderama/StorageAPI/StorageAPI/bin/Debug/net6.0/Microsoft.AspNetCore.JsonPatch.dll
+/Users/jancongva/Desktop/Congi/GIT/coderama/StorageAPI/StorageAPI/bin/Debug/net6.0/Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
 /Users/jancongva/Desktop/Congi/GIT/coderama/StorageAPI/StorageAPI/bin/Debug/net6.0/Microsoft.OpenApi.dll
+/Users/jancongva/Desktop/Congi/GIT/coderama/StorageAPI/StorageAPI/bin/Debug/net6.0/Newtonsoft.Json.dll
+/Users/jancongva/Desktop/Congi/GIT/coderama/StorageAPI/StorageAPI/bin/Debug/net6.0/Newtonsoft.Json.Bson.dll
 /Users/jancongva/Desktop/Congi/GIT/coderama/StorageAPI/StorageAPI/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
 /Users/jancongva/Desktop/Congi/GIT/coderama/StorageAPI/StorageAPI/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
 /Users/jancongva/Desktop/Congi/GIT/coderama/StorageAPI/StorageAPI/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
-/Users/jancongva/Desktop/Congi/GIT/coderama/StorageAPI/StorageAPI/obj/Debug/net6.0/StorageAPI.csproj.AssemblyReference.cache
 /Users/jancongva/Desktop/Congi/GIT/coderama/StorageAPI/StorageAPI/obj/Debug/net6.0/StorageAPI.GeneratedMSBuildEditorConfig.editorconfig
 /Users/jancongva/Desktop/Congi/GIT/coderama/StorageAPI/StorageAPI/obj/Debug/net6.0/StorageAPI.AssemblyInfoInputs.cache
 /Users/jancongva/Desktop/Congi/GIT/coderama/StorageAPI/StorageAPI/obj/Debug/net6.0/StorageAPI.AssemblyInfo.cs
