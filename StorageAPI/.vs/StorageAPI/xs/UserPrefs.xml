@@ -1,40 +1,39 @@
 ﻿<Properties StartupConfiguration="{836B1776-9CC0-4007-AFBA-2002C92EF19C}|Default">
-  <MonoDevelop.Ide.ItemProperties.StorageAPI PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Entities/ServerStorage.cs">
+  <MonoDevelop.Ide.ItemProperties.StorageAPI PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../.gitignore">
     <Files>
-      <File FileName="Entities/ConfigSettings.cs" Line="8" Column="2" />
-      <File FileName="Services/StorageTypeFactory.cs" Line="20" Column="15" />
-      <File FileName="Services/IStorageTypeFactory.cs" Line="1" Column="1" />
-      <File FileName="Entities/IStorageType.cs" Line="10" Column="23" />
-      <File FileName="Entities/ServerStorage.cs" Line="9" Column="1" />
+      <File FileName="Entities/ConfigSettings.cs" />
+      <File FileName="Services/StorageTypeFactory.cs" />
+      <File FileName="Services/IStorageTypeFactory.cs" />
+      <File FileName="Entities/IStorageType.cs" />
+      <File FileName="Entities/ServerStorage.cs" Line="24" Column="1" />
       <File FileName="Entities/DatabaseStorage.cs" Line="14" Column="1" />
-      <File FileName="Entities/InMemoryStorage.cs" Line="17" Column="10" />
-      <File FileName="Program.cs" Line="9" Column="35" />
+      <File FileName="Entities/InMemoryStorage.cs" />
+      <File FileName="Program.cs" />
       <File FileName="appsettings.json" />
-      <File FileName="Controllers/DocumentsController.cs" Line="39" Column="13" />
+      <File FileName="Controllers/DocumentsController.cs" Line="26" Column="45" />
       <File FileName="Entities/Document.cs" Line="2" Column="28" />
       <File FileName="../../../../../../../../usr/local/share/dotnet/sdk/7.0.311/Microsoft.Common.CurrentVersion.targets" Line="3312" Column="5" />
+      <File FileName="../.gitignore" Line="2" Column="5" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="StorageAPI">
-            <Node name="StorageAPI">
-              <Node name="Dependencies" expanded="True" />
+            <Node name="StorageAPI" expanded="True">
               <Node name="Controllers" expanded="True" />
               <Node name="Entities" expanded="True" />
-              <Node name="Properties" expanded="True" />
-              <Node name="Services" expanded="True" />
             </Node>
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.StorageAPI.tests FirstBuild="True" />
 </Properties>
